@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & local secrets
+.env
+*.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Databases (uncomment if you want to keep your local database fresh)
+*.db
+*.sqlite3
+
+# IDE / Editor folders
+.vscode/
+.idea/
